@@ -2,18 +2,19 @@
 
 ## <picture> <img src="https://github.com/Rohit-Gupta2/Rohit-Gupta2/blob/Master/img/gifs/Developer.gif?raw=true" width = 50> </picture> About me
 
-👋 Hi There, I am Rohit Gupta a Multi-skilled engineer with expertise in Advance Control, Aerospace, Robotics, and Autonomy. My passion lies in building Intelligent and Autonomous Systems. I enjoy tackling complex challenges in these fields. Additionally, I'm committed to lifelong learning and constantly exploring new frontiers in emerging technologies."
+👋 Hi There, I'm Rohit Gupta a Multi-skilled engineer with expertise in Advance Control, Aerospace, Robotics, and Autonomy. My passion lies in building Intelligent and Autonomous Systems. I enjoy tackling complex challenges in these fields. I'm committed to lifelong learning and constantly exploring new frontiers in emerging technologies.
 
 
-<img align="right" src="https://github.com/Rohit-Gupta2/Rohit-Gupta2/blob/Master/img/gifs/Workfromhome.gif?raw=true" width = 280px>
+<img align="right" src="https://github.com/Rohit-Gupta2/Rohit-Gupta2/blob/Master/img/gifs/Workfromhome.gif?raw=true" width = 280px height=350px>
 <br><br>
 <div align="Left">
 
-- 🌱 Currently I am working on projects related to Aerospace, Computer Vision, Robotics, Advance Control, and Systems on chip.
-- 💻 I Love to code, and I'm in the Top 3.72% on LeetCode (Global Ranking: 15k out of 4.6 Lakh Active Programmers)
-- 🌱 I’m currently Working on side projects
-- 🌟 I'm currently  learning about Liquid Neural Networks, Control Theory, Rust, Occupancy Grids, Dynamic Nerf, and Vision Transformers.
+- 👨‍💻  Currently I am working on projects related to **Aerospace, Computer Vision, Robotics, Advance Control, and Systems on chip**
+- 💻 I Love to code, and I'm in the **Top 3.72% on LeetCode** (Global Ranking: 15k out of 4.6 Lakh Active Programmers)
+- 📚 I'm currently  learning about **Control Theory, Rust, and Vision Transformers**
+- 💡 I’m curious about Liquid Neural Networks, Occupancy Grids and Dynamic Nerfs
 - 🤝 I'm open for collaborations on above topics
+- 📄 Know about my education and experiences <a href="https://github.com/Rohit-Gupta2/Rohit-Gupta2/blob/Master/Resume.pdf" target="blank"> Resume</a>
 </div>
 <br>
 
@@ -47,7 +48,7 @@
 | [WebApp Semantic Segmentation](https://github.com/Rohit-Gupta2/Computer-Vision-and-Machine-Learning-Projects/tree/Master/Computer%20Vision/WebApp%20Semantic%20Segmentation)      | This Project Will be Updated by October 10| <img src="https://github.com/Rohit-Gupta2/Computer-Vision-and-Machine-Learning-Projects/tree/Master/Computer%20Vision/WebApp%20Semantic%20Segmentation" width="140" height="120"> |
 | [Computer Vision ](https://github.com/username/project2)      | This Project Will be Updated by October 10                 | <img src="https://github.com/Rohit-Gupta2/Advanced-Controls/blob/Master/MPC_CarParking_ObstacleAvoidance/MPC_CP_Sim.gif" alt="Project 2 Preview" width="140" height="120"> |
 | [Machine Learning Projects](https://github.com/Rohit-Gupta2/Computer-Vision-and-Machine-Learning-Projects/tree/Master/Machine%20Learning%20Projects)      | Machine Learning and Data Science Projects                 | <img src="https://github.com/Rohit-Gupta2/Computer-Vision-and-Machine-Learning-Projects/blob/Master/Machine%20Learning%20Projects/The%20Android%20App%20Market%20on%20Google%20Play/datasets/ml.PNG?raw=true" width="280" height="120"> |
-| [Cmputational Fluid Dynamics and FEA](https://github.com/Rohit-Gupta2/CFD-and-FEA-Projects/blob/Master/CFD%20and%20FEA%20Projects.pdf)      |CFD and FEA Projects |  <img src="https://github.com/Rohit-Gupta2/CFD-and-FEA-Projects/blob/Master/CFD.PNG?raw=true" width="280" height="120"> |
+| [Computational Fluid Dynamics and FEA](https://github.com/Rohit-Gupta2/CFD-and-FEA-Projects/blob/Master/CFD%20and%20FEA%20Projects.pdf)      |CFD and FEA Projects |  <img src="https://github.com/Rohit-Gupta2/CFD-and-FEA-Projects/blob/Master/CFD.PNG?raw=true" width="280" height="120"> |
 
 </div>
 <div align="center">
@@ -89,4 +90,3 @@ Thank you for stopping by and checking out my GitHub profile. I'm always eager t
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
