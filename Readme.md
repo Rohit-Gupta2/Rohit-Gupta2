@@ -5,7 +5,7 @@
 👋 Hi There, I'm Rohit Gupta a Multi-skilled engineer with expertise in Advance Control, Aerospace, Robotics, and Autonomy. My passion lies in building Intelligent and Autonomous Systems. I enjoy tackling complex challenges in these fields. I'm committed to lifelong learning and constantly exploring new frontiers in emerging technologies.
 
 
-<img align="right" src="https://github.com/Rohit-Gupta2/Rohit-Gupta2/blob/Master/img/gifs/Workfromhome.gif?raw=true" width = 280px height=350px>
+<img align="right" src="https://github.com/Rohit-Gupta2/Rohit-Gupta2/blob/Master/img/gifs/Workfromhome.gif?raw=true" width = 280px>
 <br><br>
 <div align="Left">
 
@@ -14,7 +14,7 @@
 - 📚 I'm currently  learning about **Control Theory, Rust, and Vision Transformers**
 - 💡 I’m curious about Liquid Neural Networks, Occupancy Grids and Dynamic Nerfs
 - 🤝 I'm open for collaborations on above topics
-- 📄 Know about my education and experiences <a href="https://github.com/Rohit-Gupta2/Rohit-Gupta2/blob/Master/Resume.pdf" target="blank"> Resume</a>
+- 📄 Know about my education and experiences <a href="https://github.com/Rohit-Gupta2/Rohit-Gupta2/blob/Master/Rohit_Gupta-Resume.pdf" target="blank"> Resume</a>
 </div>
 <br>
 
